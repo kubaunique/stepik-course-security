@@ -1,0 +1,126 @@
+Now I want to consider cyber attacks and protection measures using the example of an educational environment.
+
+In educational institutions, the security of student data, teachers, and educational materials is critically important. Let's look at the main types of cyber attacks that schools, colleges, and universities may face, as well as ways to protect themselves.
+1. Phishing in educational institutions
+
+📌 Example:
+
+A teacher or student receives an email allegedly from the university administration asking them to enter a username and password on a fake website.
+
+ 
+
+✅ Protection:
+
+ 
+
+Teaching students and teachers how to work safely with e-mail.
+
+Implementation of anti-phishing filters in mail services.
+
+Two-factor authentication (2FA) for logging into educational platforms.
+
+2. Smishing - SMS phishing in the field of education
+
+📌 Example:
+
+The student receives an SMS with false information about the scholarship and a request to enter bank details.
+
+ 
+
+✅ Protection:
+
+ 
+
+Conducting briefings on the security of digital communications.
+
+Development of official communication channels of the educational institution.
+3. DDoS attacks on educational platforms
+
+📌 Example:
+
+During online exams, the server of the educational platform is overloaded due to a DDoS attack, making the platform unavailable.
+
+ 
+
+✅ Protection:
+
+ 
+
+Using cloud security solutions (Cloudflare, AWS Shield).
+
+Setting up monitoring of abnormal network activity.
+4. SQL injection in educational systems
+
+📌 Example:
+
+The attacker enters malicious SQL code into the electronic journal system and alters students' grades.
+
+ 
+
+✅ Protection:
+
+ 
+
+Using secure SQL queries (Prepared Statements).
+
+Restriction of access rights to the database.
+5. Man-in-the-Middle (MitM) attack in educational institutions
+
+📌 Example:
+
+A student connects to an unsecured Wi-Fi network on campus, and an attacker intercepts his data.
+
+ 
+
+✅ Protection:
+
+
+
+Using a VPN connection to access educational resources.
+
+Setting up secure Wi-Fi networks on campus.
+6. Malware (Malware, Ransomware) in educational institutions
+
+📌 Example:
+
+Computers in the school computer classroom are infected with a virus that encrypts data.
+
+ 
+
+✅ Protection:
+
+ 
+
+Regular update of antivirus software.
+
+Implementation of a backup policy for training materials.
+7. Keylogging and theft of student data
+
+📌 Example:
+
+The infected computer records keystrokes and transmits the student's credentials to the hacker.
+
+ 
+
+✅ Protection:
+
+ 
+
+Teaching students how to use their devices safely.
+
+Regular check of school and university computers for malware.
+8. Social engineering and manipulation in educational institutions
+
+📌 Example:
+
+The attacker poses as the administrator of the distance learning system and asks students to provide passwords.
+
+ 
+
+✅ Protection:
+
+ 
+
+Development of training modules on cybersecurity.
+
+Teaching teachers and students how to protect themselves from manipulation.
